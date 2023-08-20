@@ -60,6 +60,8 @@ font-family: 'Open Sans', sans-serif;
 .calculator_panell__result{
     position: absolute;
     right: 20px;
+    left: 20px;
+    word-wrap: break-word;
     bottom: 20px;
     font-size: 34px;
 }
